@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExtentionMethod/1.0.0": {
+        "runtime": {
+          "ExtentionMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtentionMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
